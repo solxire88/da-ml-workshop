@@ -2,3 +2,4 @@ data/orders_clean.csv
 data/orders_features.csv
 .ipynb_checkpoints/
 __pycache__/
+CLAUDE.md
